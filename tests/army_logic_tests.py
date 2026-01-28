@@ -139,6 +139,5 @@ class TestArmyCreation(unittest.TestCase):
         with self.assertRaises(InsufficientFundsError):
             army.transform_unit(army.units[0])
 
-
 if __name__ == '__main__':
     unittest.main()

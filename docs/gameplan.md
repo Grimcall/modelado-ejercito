@@ -45,7 +45,7 @@
 
 ## TIEMPO INVERTIDO
 * 23 minutos utilizados para crear diagramas y gameplan inicial
-* Ejercicio terminado en 2hrs 6mnts explícitamente con algunos edge cases atentidos, tiempo restante utilizado para verificar, crear las pruebas, hacer refactoring, documentar e identificar edge cases adicionales
+* Ejercicio terminado en 2hrs 6mnts explícitamente con algunos edge cases atentidos, particularmente los de Units, tiempo restante utilizado para verificar, crear las pruebas, hacer refactoring, documentar e identificar edge cases adicionales
 * Ejercicio terminado, documentado y atendido en 2hrs y 20mnts. Tiempo restante utilizado para crear pruebas unitarias (no se menciona en el enunciado que no se pueda hacer, ya que no cuenta como interacción de usuario.)
 * Ejercicio totalmente terminado en 2hrs y 52 mnts (creación de tests)
 * Aprox 30~ mints invertidos en crear solamente los tests.
