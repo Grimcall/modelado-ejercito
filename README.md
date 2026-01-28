@@ -1,0 +1,2 @@
+- Verdadera "documentación" disponible en /docs
+- Ejercicio realizado para empresa.
