@@ -12,22 +12,22 @@
 * Init repo ✓
 * Create folder structure ✓
 * Create Unit Class and Logic ✓
-** Base logic goes in utils. Maybe unit/utils.py ✓
-** Actions & Attrs: can train, get age, can transform, has strenght, can be eliminated, not queried. ✓
-** Strength Training carryover edge case ✓
-** Strength Transformation Carryover edge case ✓
-** Build test to confirm based on notes. ✓
+* Base logic goes in utils. Maybe unit/utils.py ✓
+*  Actions & Attrs: can train, get age, can transform, has strenght, can be eliminated, not queried. ✓
+* Strength Training carryover edge case ✓
+* Strength Transformation Carryover edge case ✓
+* Build test to confirm based on notes. ✓
 
-* Create Army Class and Logic
-** Armies belong to a civilization ✓
-** Three types of armies based on region. ✓
-** Armies have 1k G on creation ✓ 
-** Armies can attack other armies, regardless of civ/affiliation ✓ 
-** Armies have a battle log ✓ 
-** Army cost for transform, train
-** Army log goes in format "Army A (XX pts) defeated Army B (YY pts)" o "Was defeated by", siempre desde el punto de vista de army A (no global) ✓ 
-** If army has less than 2 units on defeat, kill all. ✓ 
-** If tied and one army has no units, don't run logic. ✓ 
+* Create Army Class and Logic ✓
+* Armies belong to a civilization ✓
+* Three types of armies based on region. ✓
+* Armies have 1k G on creation ✓ 
+* Armies can attack other armies, regardless of civ/affiliation ✓ 
+* Armies have a battle log ✓ 
+* Army cost for transform, train
+* Army log goes in format "Army A (XX pts) defeated Army B (YY pts)" o "Was defeated by", siempre desde el punto de vista de army A (no global) ✓ 
+* If army has less than 2 units on defeat, kill all. ✓ 
+* If tied and one army has no units, don't run logic. ✓ 
 
 * Create Civilization Class and Logic ✓ 
 
